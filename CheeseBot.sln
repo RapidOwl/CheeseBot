@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseBot.Core", "CheeseBot.Core\CheeseBot.Core.csproj", "{2857DD6C-2DD0-447E-B737-6813EF80391E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseBot.Tests", "CheeseBot.Tests\CheeseBot.Tests.csproj", "{182D26AA-0C61-4A0B-BB8D-9AA16DDE704E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseBot.Console", "CheeseBot.Console\CheeseBot.Console.csproj", "{57F6D16A-6D34-4AF6-A27F-ECF484C68209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2857DD6C-2DD0-447E-B737-6813EF80391E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2857DD6C-2DD0-447E-B737-6813EF80391E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2857DD6C-2DD0-447E-B737-6813EF80391E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2857DD6C-2DD0-447E-B737-6813EF80391E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182D26AA-0C61-4A0B-BB8D-9AA16DDE704E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182D26AA-0C61-4A0B-BB8D-9AA16DDE704E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182D26AA-0C61-4A0B-BB8D-9AA16DDE704E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182D26AA-0C61-4A0B-BB8D-9AA16DDE704E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F6D16A-6D34-4AF6-A27F-ECF484C68209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F6D16A-6D34-4AF6-A27F-ECF484C68209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F6D16A-6D34-4AF6-A27F-ECF484C68209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F6D16A-6D34-4AF6-A27F-ECF484C68209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
